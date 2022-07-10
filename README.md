@@ -8,7 +8,7 @@
 ### Numeric lists
 1. Numeric list
 ## Images
-
+![Samurai](photo.jpg "Mortal combat!")
 ## Links
 
 ## Tables
