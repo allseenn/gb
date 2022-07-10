@@ -10,7 +10,7 @@
 ## Images
 ![Samurai](photo.jpg "Mortal combat!")
 ## Links
-
+[Simple link with title](https://gb.ru "GeekBrains")
 ## Tables
 
 ## Conflicting header
